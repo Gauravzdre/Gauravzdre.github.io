@@ -1,2 +1,3 @@
-# Gauravzdre.github.io
-A Website for my portfolio 
+A website for my resume
+
+Visit the site at https://mihier-roy.github.io
