@@ -1,3 +1,3 @@
-A website for my resume
+A webpage for my works
 
-Visit the site at https://Gauravzdre.github.io
+Visit at https://Gauravzdre.github.io
